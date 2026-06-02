@@ -29,6 +29,18 @@ I'm a **Full-Stack Developer** with 3+ years of professional experience and over
 * 🌏 **Community:** Active contributor to open source and an advocate for continuous learning.
 
 <hr />
+<hr />
+
+<!-- ADDED ACHIEVEMENTS SECTION HERE -->
+## 🏅 My GitHub Achievements
+<p align="left">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/icons/quickdraw.png" width="75px" title="Quickdraw" alt="Quickdraw" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/icons/yolo.png" width="75px" title="YOLO" alt="YOLO" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/icons/pull-shark.png" width="75px" title="Pull Shark" alt="Pull Shark" />
+</p>
+
+<hr />
+
 
 ## 🔧 Skills & Technologies
 
